@@ -1,26 +1,30 @@
-# 💕 Lovers Proposal Website  
+![alt text](image.png)
 
-A simple and fun website made for lovers to propose to their girlfriend in a cute and interactive way.  
-The site is designed to be minimal, romantic, and engaging – perfect for expressing feelings online.  
+# Be Mine? 💖
 
----
-
-## ✨ Features  
-- Romantic UI for proposals 💌  
-- Fun and interactive way to ask your girlfriend  
-- Easy to use and share  
+Welcome to the cutest project you’ll ever see! This is a fun and interactive website made for lovers to ask that special someone: "Will you be mine?" or just get a playful **Yes 💖** confirmation.
 
 ---
 
-## 🛠️ Built With  
-- HTML  
-- CSS  
-- JavaScript  
+## 💌 What's Inside?
+- Simple and romantic UI  
+- “Yes” button sends a confirmation email (using EmailJS)  
+- Minimal and engaging design built with HTML, CSS, and JavaScript  
+- Optional message feature so the sender can add a sweet note  
 
 ---
 
-## 🚀 How to Use  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+## 🎁 Features
+- Cute and playful interface  
+- Interactive **Yes 💖** button  
+- Heartwarming messages  
+- Easy to use — just open in a browser and click!  
 
+---
+
+## 🚀 Getting Started
+To try this site locally:  
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/your-username/your-repo-name.git

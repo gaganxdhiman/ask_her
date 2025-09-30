@@ -1,6 +1,7 @@
+# Be Mine? 💖
+
 ![alt text](image.png)
 
-# Be Mine? 💖
 
 Welcome to the cutest project you’ll ever see! This is a fun and interactive website made for lovers to ask that special someone: "Will you be mine?" or just get a playful **Yes 💖** confirmation.
 
